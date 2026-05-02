@@ -17,7 +17,7 @@ export default function Sidebar({ unreadCount = 0 }) {
           <Clapperboard className="h-5 w-5" />
         </div>
 
-        <span className="font-semibold">ProdHub</span>
+        <span className="font-semibold">NF PROD</span>
       </div>
 
       <nav className="flex-1 space-y-1 p-4">

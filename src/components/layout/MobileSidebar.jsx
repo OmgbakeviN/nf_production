@@ -36,7 +36,7 @@ export default function MobileSidebar({ open, onClose, unreadCount = 0 }) {
               <Clapperboard className="h-5 w-5" />
             </div>
 
-            <span className="font-semibold">ProdHub</span>
+            <span className="font-semibold">NF Prod</span>
           </div>
 
           <Button variant="ghost" size="icon" onClick={onClose}>
